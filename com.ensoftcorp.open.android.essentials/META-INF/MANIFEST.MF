@@ -20,4 +20,5 @@ Bundle-ClassPath: .
 Bundle-Activator: com.ensoftcorp.open.Activator
 Export-Package: com.ensoftcorp.open.android.essentials,
  com.ensoftcorp.open.android.essentials.permissions,
- com.ensoftcorp.open.android.essentials.permissions.mappings
+ com.ensoftcorp.open.android.essentials.permissions.mappings,
+ com.ensoftcorp.open.android.essentials.views
